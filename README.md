@@ -27,9 +27,9 @@ Spurious scratches: unavoidably caused in polished process, which is similar to 
 ![](./explain_image/polycrystalline_iron.jpg)
 
 ## Virtual data set
-We generate virtual image data by using monte Carlo Potts model to mimic the grown procedure of material grain.
+We generate virtual image data by using monte Carlo Potts model [4] to mimic the grown procedure of material grain.
 
-We public the data obtained at 5000 monte carlo step of simulation process
+We public the data obtained at 5000 monte carlo step of simulation process.
 
 ## Downloading of data
 The data sets could be downloaded at:
