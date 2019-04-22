@@ -36,7 +36,7 @@ The data sets could be downloaded at:
 
 
 ## Usage of data
-The data is stored in TIF data type. We provide python code to read them.
+The data is stored in multipage tiff data type. We provide python code to read them.
 
 
 ## Citation
