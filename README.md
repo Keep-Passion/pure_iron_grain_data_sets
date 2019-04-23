@@ -29,16 +29,16 @@ The real image data set consists of 296 images, with resolution of 2560 \times 1
 ![](./explain_image/polycrystalline_iron.jpg)
 
 ## Virtual data set
-We generate virtual image data by using monte Carlo Potts model to mimic the grown procedure of material grain.
+We generate virtual image data by using monte Carlo Potts model [4] to mimic the grown procedure of material grain.
 
-We public the data obtained at 5000 monte carlo step of simulation process
+We public the data obtained at 5000 monte carlo step of simulation process.
 
 ## Downloading of data
 The data sets could be downloaded at:
 
 
 ## Usage of data
-The data is stored in TIF data type. We provide python code to read them.
+The data is stored in multipage tiff data type. We provide python code to read them.
 
 
 ## Citation
