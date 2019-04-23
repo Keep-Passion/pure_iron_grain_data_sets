@@ -49,7 +49,7 @@ data_volumes.hdf5
 ```
 
 We provide python code to visualize them.  
-[inspect_data](): load and visualize data.
+[inspect_data](https://github.com/MATony/iron_grain_data_sets/blob/master/inspect_data.ipynb): load and visualize data.
 
 
 ## Citation
