@@ -24,6 +24,8 @@ Noise: caused in sample preparation.
 
 Spurious scratches: unavoidably caused in polished process, which is similar to boundary and introduce difficulty in image processing.
 
+The real image data set consists of 296 images, with resolution of 2560 \times 1600
+
 ![](./explain_image/polycrystalline_iron.jpg)
 
 ## Virtual data set
