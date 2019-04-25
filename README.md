@@ -16,7 +16,7 @@ The final goal of 2D boundary detection is to reconstruct 3D information of micr
 
 ## Real data set
 
-The specimen was intercepted from a hot-rolled iron slab and forged into round bars with a diameter equals to 30 mm. The pure iron bars were then fully recrystallized by annealing at 880 °C for 3 h to gain uniform grain microstructures. The samples were polished for a fixed time, and each polished layer was etched with 4vol% nital solution in preparation for optical microscopy. Images of microstructure were collected by an optical microscope, and a total of XXX serial sections with an average section thickness of <a href="https://www.codecogs.com/eqnedit.php?latex=1.8&space;$\mu$&space;m" target="_blank"><img src="https://latex.codecogs.com/gif.latex?1.8&space;$\mu$&space;m" title="1.8 $\mu$ m" /></a> were obtained. We used microhardness tester to produce a sets of points to ensure that the images of the same area of interest were collected.
+The specimen was intercepted from a hot-rolled iron slab and forged into round bars with a diameter equals to 30 mm. The pure iron bars were then fully recrystallized by annealing at 880 °C for 3 h to gain uniform grain microstructures. The samples were polished for a fixed time, and each polished layer was etched with 4vol% nital solution in preparation for optical microscopy. Images of microstructure were collected by an optical microscope, and a total of XXX serial sections with an average section thickness of 1.8 μm were obtained. We used microhardness tester to produce a sets of points to ensure that the images of the same area of interest were collected.
 
 Unlike public data in nature science and biological image, the material microscopic image often suffer many flaws during sample preparation. As shown in Figure, (a) is the stack of serial sections for polycrystalline iron. (b) is one slice of metallographic image, it contains grain boundaries (straight and thick arrows), vague or missing boundaries (straight and thin arrows), noise (curved arrows) and spurious scratches (notched arrows).(c) is labeling result of (b) and (d) is boundary detection result of (b).
 
@@ -27,13 +27,13 @@ The reasons of those flaws:
 
 The boundary detection task will unavoidably be hindered by those flaws.
 
-The real image data set consists of XXX images, with resolution of <a href="https://www.codecogs.com/eqnedit.php?latex=2560&space;\times&space;1600" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2560&space;\times&space;1600" title="2560 \times 1600" /></a>.
+The real image data set consists of XXX images, with resolution of 2560 × 1600.
 
 ![](./explain_image/polycrystalline_iron.jpg)
 
 ## Virtual data set
 We generate virtual image data by using monte Carlo Potts model \[4] to mimic the grown procedure of material grain.  We public the data obtained at 5000 monte carlo step of simulation process.  
-The virtual image data set consists of 400 images, with resolution of <a href="https://www.codecogs.com/eqnedit.php?latex=400&space;\times&space;400" target="_blank"><img src="https://latex.codecogs.com/gif.latex?400&space;\times&space;400" title="400 \times 400" /></a>.
+The virtual image data set consists of 400 images, with resolution of 400 × 400.
 
 ## Downloading of data
 The data sets could be downloaded at:  
