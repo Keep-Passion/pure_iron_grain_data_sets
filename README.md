@@ -1,7 +1,7 @@
-# Pure Iron Grain Data sets
+# Pure Iron Grain Data Sets
 Microstructure is of great importance for controlling the properties and performance in materials science. Among all the materials, polycrystalline structure are commonly used and studied in practice.
 
-Recently progress in material microscopic image segmentation has been driven by high-capacity models trained on large data sets. However, unlike public data in nature science and biological image, the produce and label of image data is very time-consuming. Because the opacity of materials, scientist can only use serial section method to obtain the 2D images of materials. Besides, the image may suffer many flaws during sample preparation, which make the labeling process consume much more times than other image data. In total, we think the progress of material microscopic image processing is hindered by the lack of public data.
+Recently progress in material microscopic image segmentation has been driven by high-capacity models trained on large data sets. However, unlike public data in nature and biological scenes, the produce and label of image data is very time-consuming. Because the opacity of materials, scientist can only use serial section method to obtain the 2D images of materials. Besides, the image may suffer many flaws during sample preparation, which make the labeling process consume much more times than other image data. In total, we think the progress of material microscopic image processing is hindered by the lack of public data.
 
 Therefore, we public our data sets with its label in order to provide a referenced data sets for computer vision community.
 
