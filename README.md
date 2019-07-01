@@ -31,9 +31,9 @@ The real image data set consists of 296 images, with resolution of 1024 × 1024.
 
 ![](./explain_image/polycrystalline_iron.jpg)
 
-## Virtual data set
-We generate virtual image data by using monte Carlo Potts model \[4] to mimic the grown procedure of material grain.  We public the data obtained at 5000 monte carlo step of simulation process.  
-The virtual image data set consists of 400 images, with resolution of 400 × 400.
+## Simulated data set
+We generate simulated image data by using monte Carlo Potts model \[4] to mimic the grown procedure of material grain.  We public the data obtained at 5000 monte carlo step of simulation process.  
+The simulated image data set consists of 400 images, with resolution of 400 × 400.
 
 ## Downloading of data
 The data sets could be downloaded at:  
@@ -58,7 +58,7 @@ data_volumes.hdf5
         boundary
 ```
 
-We provide python code to visualize them.  
+We provide python code to visualize them:  
 [inspect_data](https://github.com/MATony/iron_grain_data_sets/blob/master/inspect_data.py): load and visualize data.
 
 
@@ -70,7 +70,7 @@ In addition, if you use the real data set, please consider citing:
 \[2] [Xue, W.H. Three-dimensional modeling and quantitative characterization of grain structure .D .Beijing: University of science and technology Beijing, 2016.](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2017&filename=1017035447.nh&uid=WEEvREdxOWJmbC9oM1NjYkZCbDdrdW1QRWVCQ0E5Q3dPVEo5MExBUjV6VGU=$R1yZ0H6jyaa0en3RxVUd8df-oHi7XMMDo7mtKT6mSmEvTuk11l2gFA!!&v=MDc3OTgvS1ZGMjZHYk83RzlYSXFKRWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlkrUnNGaURuVUw=)  
 \[3] [Feng, M.N., Wang, Y.C., Wang, H., Liu, G.Q., Xue, W.H. Reconstruction of three-dimensional grain structure in polycrystalline iron via an interactive segmentation method .J. International Journal of Minerals Metallurgy and Materials, 2017(03):31-37.](https://link.springer.com/article/10.1007/s12613-017-1403-8)
 
-In addition, if you use the virtual data set, please consider citing:  
+In addition, if you use the simulated data set, please consider citing:  
 \[4] [Qin X.G., Liu, G.Q. Large-Scale 3D Model and Quantitative Characterization of Grain Microstructure Based on Monte Carlo Potts Simulation. J. Journal of University of Science & Technology Beijing, 2004(2):192-192.](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2004&filename=BJKD200401013&uid=WEEvREcwSlJHSldRa1FhdkJkVG1BVmpTQWFLNEhoN3ZhQzZwaTM3U3Zndz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTc5NTk4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlkrUnNGaURoVnJyQkp5ZkFhckc0SHRYTXJvOUVaNFI=)
 
 ## Acknowledgement
