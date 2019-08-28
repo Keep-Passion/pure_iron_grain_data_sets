@@ -32,7 +32,7 @@ The real image data set consists of 296 images, with resolution of 1024 × 1024.
 ![](./explain_image/polycrystalline_iron.jpg)
 
 ## Simulated data set
-We generate simulated image data by using monte Carlo Potts model \[4] to mimic the grown procedure of material grain.  We public the data obtained at 5000 monte carlo step of simulation process.  
+We generate simulated image data by using monte Carlo Potts model to mimic the grown procedure of material grain.  We public the data obtained at 5000 monte carlo step of simulation process.  
 The simulated image data set consists of 400 images, with resolution of 400 × 400.
 
 ## Downloading of data
