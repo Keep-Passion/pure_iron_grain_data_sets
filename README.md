@@ -38,8 +38,6 @@ The simulated image data set consists of 400 images, with resolution of 400 × 4
 ## Downloading of data
 The data sets could be downloaded at:  
 
-Waiting for updating.....
-
 [Baidu Pan](https://pan.baidu.com/s/1qNP4HPhZLsfEY7fDg79hcA), The key is 'een5'.  
 [Google Drive](https://drive.google.com/file/d/1G0KekPURcOmVVnelMvkw_FF-75DMkmjo/view?usp=sharing)  
 
@@ -60,3 +58,6 @@ pure_iron_grain_data_sets.hdf5
 
 We provide python code to visualize them:  
 [inspect_data](https://github.com/Keep-Passion/iron_grain_data_sets/blob/master/inspect_data.py): load and visualize data.
+
+## Downloading of data
+Wait for updating...
