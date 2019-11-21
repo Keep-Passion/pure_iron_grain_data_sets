@@ -39,7 +39,7 @@ The simulated image data set consists of 400 images, with resolution of 400 × 4
 The data sets could be downloaded at:  
 
 [Baidu Pan](https://pan.baidu.com/s/1qNP4HPhZLsfEY7fDg79hcA), The key is 'een5'.  
-[Google Drive](https://drive.google.com/file/d/1G0KekPURcOmVVnelMvkw_FF-75DMkmjo/view?usp=sharing)  
+[Google Drive](https://drive.google.com/open?id=1G0KekPURcOmVVnelMvkw_FF-75DMkmjo)  
 
 ## Usage of data
 All the images stored in hdf5 data type. There are two groups in the data, and each group contains differents number of datasets. The architecture of the data is as follow:  
