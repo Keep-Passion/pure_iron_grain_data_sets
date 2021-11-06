@@ -40,7 +40,7 @@ pure_iron_grain_data_sets.hdf5
 ```
 
 We provide python code to visualize them:  
-[inspect_data](https://github.com/Keep-Passion/iron_grain_data_sets/blob/master/inspect_data.py): load and visualize data.
+[inspect_data](https://github.com/Keep-Passion/pure_iron_grain_data_sets/blob/master/inspect_data.py): load and visualize data.
 
 ## Downloading of data
 Wait for updating...
