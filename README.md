@@ -28,8 +28,9 @@ The real image data set consists of 296 images, with resolution of 1024 × 1024.
 ![](./explain_image/polycrystalline_iron.jpg)
 
 ## Downloading of data
-The data sets could be downloaded at:  https://drive.google.com/u/0/uc?export=download&confirm=CMbO&id=1iDHpLFRvyUA2Sdu8QNcO25NnGaogE8Pv
+The data sets could be downloaded at:https://drive.google.com/u/0/uc?export=download&confirm=CMbO&id=1iDHpLFRvyUA2Sdu8QNcO25NnGaogE8Pv
 
+as well as:https://pan.baidu.com/s/1D2jtd3v-M9UrZPNW9aFYdw code: xyem
 ## Usage of data
 All the images stored in hdf5 data type. The architecture of the data is as follow:  
 ```Python
