@@ -40,4 +40,4 @@ We provide python code to visualize them:
 [inspect_data](https://github.com/Keep-Passion/pure_iron_grain_data_sets/blob/master/inspect_data.py): load and visualize data.
 
 ## Downloading of data
-Wait for updating...
+The dataset can be downloaded at [Baidu Pan](https://pan.baidu.com/s/1l6EgQcVU_mSPJ37_satVog?pwd=573s), with keys 573s.
